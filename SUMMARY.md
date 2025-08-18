@@ -1,6 +1,6 @@
 # Table of contents
 
-* [srcmgr](README.md)
+* [源代码管理团队会议纪要](README.md)
 
 ## 2025
 
