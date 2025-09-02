@@ -1,6 +1,8 @@
 # 源代码管理团队会议纪要
 
-srcmgr@ 是一组 FreeBSD 开发者，旨在指导源代码开发实践。可通过 [srcmgr@FreeBSD.org](mailto:srcmgr@FreeBSD.org) 与他们联系。原文地址：<https://github.com/freebsd/meetings/tree/master/srcmgr>
+- 原文地址：<https://github.com/freebsd/meetings/tree/master/srcmgr>
+
+源代码管理团队会议纪要（srcmgr@）是一组 FreeBSD 开发者，旨在指导源代码开发实践。可通过 [srcmgr@FreeBSD.org](mailto:srcmgr@FreeBSD.org) 与他们联系。
 
 ## FreeBSD 源代码管理团队 [srcmgr@FreeBSD.org](mailto:srcmgr@FreeBSD.org)
 
