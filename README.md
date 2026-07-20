@@ -1,5 +1,7 @@
 # 源代码管理团队会议纪要
 
+**由于多次催促上游更新无果，本项目归档**
+
 - 原文地址：<https://github.com/freebsd/meetings/tree/master/srcmgr>
 
 源代码管理团队会议纪要（srcmgr@）是一组 FreeBSD 开发者，旨在指导源代码开发实践。可通过 [srcmgr@FreeBSD.org](mailto:srcmgr@FreeBSD.org) 与他们联系。
